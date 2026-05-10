@@ -1,0 +1,201 @@
+PatientID,Age,Gender,Diagnosis,Treatment,VisitType,Doctor,VisitCost,FollowUpRequired
+P0001,53.0,Female,Asthma,Medication,Follow-up,,811.94,No
+P0002,41.0,Female,,Therapy,Follow-up,Dr. James Smith,789.7,
+P0003,,Male,Allergy,Vaccination,New,Dr. Emily Johnson,1412.3,
+P0004,31.0,,Asthma,Observation,Follow-up,,,No
+P0005,69.0,Male,COVID-19,Observation,New,,1862.26,
+P0006,39.0,Male,Hypertension,Surgery,New,Dr. James Smith,,
+P0007,83.0,,Diabetes,Surgery,New,Dr. William Davis,995.07,No
+P0008,43.0,Female,Diabetes,,Follow-up,Dr. Sophia Wilson,226.1,No
+P0009,71.0,Female,COVID-19,Medication,New,,1297.3,No
+P0010,18.0,Male,COVID-19,Therapy,Follow-up,Dr. Olivia Brown,1194.04,Yes
+P0011,32.0,Male,,Observation,Follow-up,Dr. William Davis,1008.89,No
+P0012,34.0,,Allergy,Vaccination,,,477.46,No
+P0013,24.0,Female,COVID-19,Vaccination,New,Dr. Emily Johnson,1901.41,No
+P0014,83.0,Male,,Observation,New,Dr. Olivia Brown,1432.4,Yes
+P0015,52.0,,Asthma,Surgery,New,Dr. Emily Johnson,1920.26,Yes
+P0016,73.0,Male,,Vaccination,Follow-up,,1671.79,No
+P0017,29.0,,,Surgery,Follow-up,,825.94,
+P0018,27.0,Male,Flu,,Follow-up,,876.2,Yes
+P0019,38.0,Female,Hypertension,Vaccination,Follow-up,,802.31,No
+P0020,59.0,Male,Diabetes,Observation,New,Dr. Olivia Brown,1951.36,Yes
+P0021,28.0,Female,Allergy,Observation,,,281.03,Yes
+P0022,43.0,,COVID-19,Surgery,New,Dr. Emily Johnson,,No
+P0023,39.0,Female,Allergy,Surgery,,Dr. Sophia Wilson,178.14,Yes
+P0024,22.0,Female,,Observation,New,,702.9,No
+P0025,19.0,,,,New,Dr. James Smith,1048.5,No
+P0026,,Female,COVID-19,Surgery,Follow-up,,1676.22,No
+P0027,67.0,Female,,Therapy,Follow-up,Dr. William Davis,1550.98,Yes
+P0028,85.0,Female,Diabetes,Therapy,New,,,Yes
+P0029,34.0,,Allergy,Observation,Follow-up,Dr. Emily Johnson,1990.88,No
+P0030,6.0,Female,Flu,Vaccination,Follow-up,Dr. William Davis,1036.68,
+P0031,19.0,,Flu,,New,,443.24,Yes
+P0032,66.0,Female,Asthma,Vaccination,,Dr. Sophia Wilson,,Yes
+P0033,74.0,Male,COVID-19,Medication,New,,1386.13,
+P0034,4.0,Female,Allergy,Medication,Follow-up,Dr. Olivia Brown,1221.64,No
+P0035,42.0,Male,Diabetes,Medication,,Dr. William Davis,962.71,
+P0036,77.0,Male,Flu,Medication,Follow-up,Dr. Olivia Brown,1900.09,
+P0037,73.0,Male,Hypertension,Medication,,Dr. Olivia Brown,1616.48,No
+P0038,,Female,Diabetes,Observation,,Dr. James Smith,556.15,No
+P0039,52.0,Male,Diabetes,Therapy,New,Dr. William Davis,,Yes
+P0040,84.0,Male,Diabetes,,Follow-up,Dr. William Davis,1498.19,No
+P0041,88.0,Male,Flu,Medication,Follow-up,Dr. Sophia Wilson,479.76,No
+P0042,50.0,Female,Flu,Vaccination,Follow-up,,1537.33,No
+P0043,79.0,Male,COVID-19,Observation,New,Dr. Emily Johnson,1075.35,
+P0044,87.0,,,Therapy,Follow-up,Dr. Sophia Wilson,1296.16,
+P0045,38.0,Female,COVID-19,Medication,Follow-up,Dr. Olivia Brown,382.35,Yes
+P0046,,Male,Asthma,,Follow-up,Dr. Sophia Wilson,190.68,Yes
+P0047,6.0,,,Observation,Follow-up,Dr. Emily Johnson,982.85,
+P0048,33.0,Female,Flu,,New,Dr. Sophia Wilson,130.91,No
+P0049,,Male,Hypertension,Observation,New,Dr. Emily Johnson,890.88,No
+P0050,41.0,Female,Allergy,Observation,Follow-up,Dr. Olivia Brown,,No
+P0051,24.0,Male,,Medication,Follow-up,Dr. Emily Johnson,924.22,
+P0052,51.0,Male,Diabetes,Therapy,Follow-up,Dr. William Davis,1414.43,No
+P0053,,Female,,Vaccination,Follow-up,Dr. William Davis,1628.82,Yes
+P0054,18.0,Male,Hypertension,,New,Dr. James Smith,1732.12,Yes
+P0055,84.0,Male,Allergy,Therapy,Follow-up,Dr. Sophia Wilson,462.74,
+P0056,60.0,Male,COVID-19,Observation,New,Dr. Emily Johnson,,Yes
+P0057,90.0,,COVID-19,Observation,,Dr. William Davis,1211.93,Yes
+P0058,73.0,,Diabetes,Surgery,New,Dr. Emily Johnson,1297.78,No
+P0059,54.0,Female,Allergy,Vaccination,Follow-up,,1026.24,No
+P0060,,Female,Hypertension,,New,Dr. William Davis,1195.17,
+P0061,35.0,,COVID-19,Medication,Follow-up,Dr. Sophia Wilson,1884.03,
+P0062,90.0,Female,Diabetes,Therapy,Follow-up,Dr. James Smith,991.56,No
+P0063,,Male,Asthma,,Follow-up,Dr. James Smith,,
+P0064,50.0,Female,Allergy,Surgery,,Dr. James Smith,1281.5,Yes
+P0065,12.0,,Hypertension,Therapy,New,Dr. James Smith,1250.92,Yes
+P0066,54.0,Female,Flu,,New,,,Yes
+P0067,34.0,,Allergy,Therapy,New,Dr. Sophia Wilson,,
+P0068,56.0,Male,Asthma,Therapy,New,Dr. Sophia Wilson,525.78,Yes
+P0069,,Female,Diabetes,Vaccination,Follow-up,Dr. James Smith,1721.48,No
+P0070,78.0,Male,Allergy,Medication,Follow-up,Dr. William Davis,1929.03,
+P0071,14.0,,Asthma,Medication,New,Dr. James Smith,1296.86,
+P0072,47.0,Male,Allergy,Surgery,Follow-up,Dr. Sophia Wilson,1046.94,No
+P0073,20.0,Female,Flu,,New,Dr. James Smith,934.31,No
+P0074,1.0,Male,COVID-19,Surgery,Follow-up,Dr. Sophia Wilson,425.4,Yes
+P0075,54.0,,,Therapy,New,Dr. Sophia Wilson,901.27,Yes
+P0076,55.0,Female,COVID-19,,Follow-up,Dr. Emily Johnson,940.9,No
+P0077,67.0,Male,,Surgery,Follow-up,Dr. William Davis,1965.7,Yes
+P0078,8.0,Female,,Therapy,,Dr. Sophia Wilson,1948.06,
+P0079,88.0,,Allergy,Surgery,Follow-up,Dr. Emily Johnson,1671.31,No
+P0080,,,,,Follow-up,Dr. James Smith,1786.4,No
+P0081,80.0,,,,Follow-up,Dr. James Smith,1773.85,Yes
+P0082,,Female,COVID-19,Therapy,Follow-up,,276.36,No
+P0083,,Female,,Therapy,New,Dr. Emily Johnson,1791.61,No
+P0084,34.0,Male,Flu,Observation,New,Dr. Emily Johnson,1699.01,Yes
+P0085,65.0,Female,Diabetes,Medication,New,Dr. William Davis,666.13,No
+P0086,59.0,Female,,Vaccination,New,Dr. Olivia Brown,668.48,No
+P0087,74.0,Male,Allergy,Observation,New,,,No
+P0088,47.0,Female,Diabetes,,Follow-up,Dr. William Davis,255.7,Yes
+P0089,17.0,Female,Hypertension,Observation,New,Dr. Olivia Brown,1385.96,No
+P0090,72.0,Female,Flu,Vaccination,Follow-up,Dr. William Davis,,No
+P0091,63.0,Female,Hypertension,Therapy,New,Dr. William Davis,1451.19,Yes
+P0092,66.0,Male,Allergy,Therapy,Follow-up,,161.95,
+P0093,72.0,,Diabetes,Vaccination,Follow-up,Dr. Emily Johnson,,No
+P0094,6.0,Male,,Surgery,Follow-up,Dr. Olivia Brown,676.19,No
+P0095,,Male,Asthma,Observation,New,Dr. Olivia Brown,1789.21,
+P0096,63.0,Male,,Vaccination,Follow-up,Dr. Emily Johnson,1753.81,
+P0097,,Female,Asthma,Observation,,Dr. William Davis,,
+P0098,,Male,Hypertension,,Follow-up,Dr. William Davis,1367.72,Yes
+P0099,42.0,Male,Asthma,Vaccination,,Dr. William Davis,542.36,
+P0100,70.0,Male,Allergy,Observation,Follow-up,Dr. Emily Johnson,,No
+P0101,74.0,,Asthma,Medication,New,Dr. James Smith,1914.82,
+P0102,7.0,,COVID-19,Vaccination,New,Dr. Emily Johnson,,
+P0103,3.0,,Hypertension,Therapy,Follow-up,Dr. Emily Johnson,1633.15,No
+P0104,,Male,COVID-19,Medication,Follow-up,Dr. William Davis,442.97,Yes
+P0105,,Female,COVID-19,Surgery,New,Dr. Emily Johnson,1961.59,No
+P0106,37.0,Male,Hypertension,Surgery,New,Dr. James Smith,682.91,No
+P0107,22.0,Male,Asthma,Surgery,New,Dr. Emily Johnson,,Yes
+P0108,13.0,Female,Hypertension,Observation,Follow-up,Dr. Olivia Brown,813.48,No
+P0109,,Male,,,New,Dr. William Davis,1066.38,No
+P0110,15.0,,Diabetes,Surgery,,Dr. Sophia Wilson,873.45,
+P0111,53.0,Male,Diabetes,Surgery,New,Dr. James Smith,1549.66,No
+P0112,17.0,Female,Asthma,Observation,Follow-up,Dr. Emily Johnson,1707.93,No
+P0113,19.0,,Asthma,Therapy,New,Dr. Sophia Wilson,,No
+P0114,72.0,Female,Diabetes,Medication,Follow-up,Dr. Sophia Wilson,649.57,
+P0115,1.0,Male,COVID-19,Surgery,Follow-up,Dr. William Davis,1998.56,No
+P0116,28.0,Female,Diabetes,,New,Dr. Olivia Brown,270.46,No
+P0117,18.0,Female,COVID-19,Therapy,,Dr. Olivia Brown,,No
+P0118,58.0,Female,,Surgery,Follow-up,Dr. James Smith,973.62,No
+P0119,3.0,Male,Allergy,Medication,,Dr. Emily Johnson,1812.75,No
+P0120,53.0,Female,COVID-19,Vaccination,New,Dr. Emily Johnson,1123.43,No
+P0121,86.0,Female,Allergy,Medication,Follow-up,Dr. William Davis,1672.19,Yes
+P0122,23.0,,Diabetes,Observation,Follow-up,Dr. James Smith,944.7,Yes
+P0123,3.0,Female,Allergy,Surgery,New,Dr. Emily Johnson,1650.93,
+P0124,,Male,COVID-19,Surgery,New,Dr. Olivia Brown,1036.39,No
+P0125,78.0,Male,Diabetes,Therapy,Follow-up,Dr. Emily Johnson,,
+P0126,,Male,Asthma,,New,Dr. Emily Johnson,,No
+P0127,17.0,Female,Asthma,Therapy,,Dr. James Smith,1710.57,Yes
+P0128,89.0,Female,Allergy,Vaccination,Follow-up,Dr. Emily Johnson,1881.99,
+P0129,,Male,Flu,Observation,Follow-up,Dr. Olivia Brown,,No
+P0130,64.0,Female,Asthma,Medication,,Dr. Emily Johnson,,No
+P0131,58.0,Female,Diabetes,Observation,New,Dr. Olivia Brown,255.44,
+P0132,4.0,Male,Allergy,Observation,New,Dr. James Smith,,Yes
+P0133,9.0,Male,Diabetes,,Follow-up,Dr. Emily Johnson,1225.81,No
+P0134,,Female,Hypertension,,Follow-up,,,No
+P0135,43.0,Male,Diabetes,Vaccination,Follow-up,Dr. Emily Johnson,,No
+P0136,11.0,Male,Diabetes,Observation,,Dr. Emily Johnson,1587.03,Yes
+P0137,57.0,Male,Flu,Vaccination,Follow-up,Dr. Emily Johnson,293.47,
+P0138,7.0,Female,COVID-19,Observation,New,Dr. Sophia Wilson,1528.73,Yes
+P0139,77.0,Male,COVID-19,Observation,Follow-up,Dr. William Davis,1771.88,No
+P0140,44.0,Male,COVID-19,Vaccination,Follow-up,Dr. Sophia Wilson,465.71,Yes
+P0141,77.0,Male,Asthma,Therapy,New,Dr. Sophia Wilson,586.94,No
+P0142,80.0,Female,,Therapy,New,Dr. Emily Johnson,214.93,Yes
+P0143,56.0,Female,Flu,Vaccination,New,Dr. James Smith,992.1,No
+P0144,38.0,Female,Diabetes,Vaccination,New,Dr. Emily Johnson,551.04,No
+P0145,72.0,Male,,Surgery,New,Dr. James Smith,1317.05,Yes
+P0146,9.0,Female,Hypertension,Observation,Follow-up,Dr. Sophia Wilson,1415.59,No
+P0147,73.0,Female,Asthma,Surgery,Follow-up,,408.33,No
+P0148,6.0,Female,,,New,Dr. James Smith,986.42,
+P0149,62.0,Female,Allergy,Observation,New,Dr. William Davis,450.06,No
+P0150,47.0,Male,Diabetes,Surgery,New,Dr. Sophia Wilson,318.86,Yes
+P0151,25.0,Female,Diabetes,Medication,,Dr. James Smith,639.79,Yes
+P0152,34.0,Male,,,New,Dr. James Smith,,Yes
+P0153,34.0,Male,,Therapy,Follow-up,Dr. Emily Johnson,742.93,Yes
+P0154,59.0,Male,Flu,Surgery,New,,1956.49,No
+P0155,56.0,Male,,Therapy,New,Dr. James Smith,,Yes
+P0156,48.0,Female,Asthma,Observation,New,Dr. Emily Johnson,,No
+P0157,69.0,Female,Hypertension,Surgery,New,Dr. Emily Johnson,1295.97,Yes
+P0158,17.0,,Hypertension,Medication,Follow-up,Dr. Sophia Wilson,223.26,No
+P0159,83.0,,COVID-19,Vaccination,Follow-up,Dr. James Smith,711.46,
+P0160,89.0,Female,Allergy,Observation,Follow-up,Dr. Olivia Brown,1204.25,No
+P0161,75.0,Male,Hypertension,Therapy,New,Dr. William Davis,1740.02,Yes
+P0162,,Female,COVID-19,,New,Dr. Olivia Brown,,Yes
+P0163,11.0,Female,,,Follow-up,,1209.53,No
+P0164,80.0,Female,COVID-19,Observation,Follow-up,Dr. William Davis,877.01,No
+P0165,41.0,Female,COVID-19,Medication,New,,,No
+P0166,46.0,Male,Flu,Vaccination,,Dr. Olivia Brown,,Yes
+P0167,10.0,Female,Diabetes,Vaccination,New,,,Yes
+P0168,39.0,Female,,Vaccination,,,,Yes
+P0169,39.0,,Flu,Observation,,Dr. Sophia Wilson,1539.83,
+P0170,84.0,Male,COVID-19,,New,Dr. James Smith,1001.43,No
+P0171,,Female,,,Follow-up,Dr. Emily Johnson,694.84,
+P0172,90.0,,Hypertension,Observation,Follow-up,Dr. Sophia Wilson,157.2,Yes
+P0173,17.0,,Allergy,Medication,Follow-up,Dr. Olivia Brown,745.66,
+P0174,88.0,Female,,Vaccination,Follow-up,Dr. Olivia Brown,1215.21,
+P0175,5.0,Male,,Surgery,Follow-up,,487.99,Yes
+P0176,69.0,Female,Hypertension,,New,Dr. Olivia Brown,1182.08,No
+P0177,39.0,Male,Hypertension,Medication,New,Dr. Emily Johnson,1670.3,No
+P0178,4.0,Male,Hypertension,Medication,,,491.2,Yes
+P0179,,Male,,Medication,,Dr. Sophia Wilson,120.99,Yes
+P0180,,Female,Hypertension,,New,Dr. Sophia Wilson,,No
+P0181,50.0,Male,,Therapy,Follow-up,Dr. William Davis,,No
+P0182,21.0,Female,Asthma,Therapy,,Dr. Olivia Brown,483.24,No
+P0183,58.0,Male,,Vaccination,New,Dr. Sophia Wilson,724.89,No
+P0184,,Female,COVID-19,Vaccination,New,Dr. Emily Johnson,647.03,No
+P0185,59.0,Female,Allergy,,Follow-up,Dr. Sophia Wilson,1664.52,No
+P0186,54.0,Male,,Vaccination,Follow-up,Dr. William Davis,830.86,No
+P0187,90.0,Male,COVID-19,Medication,New,Dr. James Smith,620.17,No
+P0188,38.0,Male,Allergy,,Follow-up,Dr. William Davis,,No
+P0189,,Male,Diabetes,Vaccination,Follow-up,Dr. William Davis,,Yes
+P0190,65.0,Male,COVID-19,Medication,New,,824.2,No
+P0191,25.0,,Diabetes,Medication,Follow-up,,1447.29,Yes
+P0192,86.0,Female,COVID-19,,New,Dr. Emily Johnson,,Yes
+P0193,,,COVID-19,,New,Dr. James Smith,1693.14,No
+P0194,23.0,Female,Diabetes,,Follow-up,,247.41,No
+P0195,87.0,Female,,,,Dr. James Smith,511.68,Yes
+P0196,87.0,Male,COVID-19,Medication,New,Dr. William Davis,,No
+P0197,77.0,Male,Diabetes,Observation,New,Dr. James Smith,811.82,Yes
+P0198,12.0,,COVID-19,Medication,New,Dr. Olivia Brown,1659.0,No
+P0199,9.0,,,Therapy,New,Dr. Emily Johnson,,Yes
+P0200,42.0,Female,Asthma,Therapy,New,Dr. Sophia Wilson,850.62,
